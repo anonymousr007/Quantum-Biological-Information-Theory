@@ -33,3 +33,68 @@
 ---
 
 Finally, the author would like to thank Charles Glaser, Jeffrey Taub, and Nicole Lowary of Springer US for their tremendous effort in organizing the logistics of the book including editing and promotion, which is indispensible to make this book happen.
+
+### Table of Content
+
+- 1 Introduction
+  - 1.1 Quantum Biology Perspective
+  - 1.2 Quantum Information Theory and Biology
+  - 1.3 Organization of the Book
+- 2 Quantum Information Theory Fundamentals
+  - 2.1 State Vectors, Operators, Projection Operators, and Density Operators
+    - 2.1.1 State Vectors and Operators
+    - 2.1.2 Projection Operators
+    - 2.1.3 Photon, Spin-(1/2) Systems, and Hadamard Gate
+    - 2.1.4 Density Operators
+  - 2.2 Measurements, Uncertainty Relations, and Dynamics of a Quantum System
+    - 2.2.1 Measurements
+    - 2.2.2 Uncertainty Principle
+    - 2.2.3 Time-Evolution Schrodinger Equation
+  - 2.3 Quantum Information Processing (QIP) Fundamentals
+    - 2.3.1 Superposition Principle, Quantum Parallelism, Quantum Gates, and QIP Basics
+    - 2.3.2 No-Cloning Theorem and Distinguishing the Quantum States
+    - 2.3.3 Quantum Entanglement
+    - 2.3.4 Operator Sum Representation
+    - 2.3.5 Decoherence Effects, Depolarization, and Amplitude Damping Channel Models
+  - 2.4 Classical (Shannon) and Quantum (von Neumann) Entropies
+  - 2.5 Holevo Information, Accessible Information, and Holevo Bound
+  - 2.6 Schumacher’s Noiseless Quantum Coding Theorem and Holevo–Schumacher–Westmoreland Theorem
+    - 2.6.1 Schumacher’s Noiseless Quantum Coding Theorem and Quantum Compression
+    - 2.6.2 Holevo–Schumacher–Westmoreland Theorem and Channel Coding
+  - 2.7 Quantum Error-Correction Concepts
+  - 2.8 Hydrogen-Like Atoms and Beyond
+- 3 Fundamentals of Biological Thermodynamics, Biomolecules, Cellular Genetics, and Bioenergetics
+  - 3.1 Biological Thermodynamics
+    - 3.1.1 The First Law of Thermodynamics, Perfect Gas, Enthalpy of the System
+    - 3.1.2 Gibbs–Boltzmann Distribution Law, Second Law of Thermodynamics, and Third Law of Thermodynamics
+    - 3.1.3 Biochemical Reaction Energetics
+  - 3.2 Biomolecules
+    - 3.2.1 Amino Acids, Peptides, and Proteins
+    - 3.2.2 Carbohydrates and Corresponding Polymers
+    - 3.2.3 Lipids, Phospholipids, Membranes, and Vesicles
+    - 3.2.4 Nucleic Acids, Nucleosides, and Nucleotides
+  - 3.3 Cellular Genetics
+    - 3.3.1 DNA Structure and DNA Replication Process
+    - 3.3.2 Genetic Code, RNA Molecules, Transcription, and Translation
+    - 3.3.3 Gene Anatomy and Regulation of Gene Expression
+  - 3.4 Mutations, Evolution, and DNA Repair
+  - 3.5 Bioenergetics of the Cell
+- 4 Quantum Information Theory and Quantum Mechanics-Based Biological Modeling and Biological Channel Capacity Calculation
+  - 4.1 Introduction
+  - 4.2 Quantum Biological Channel Models Suitable for Study of Quantum Information Transfer from DNA to Proteins
+  - 4.3 Sources of Genetic Errors and Genetic Noise: A Quantum-Mechanical Perspective
+  - 4.4 Quantum Biological Channel Capacity Evaluation
+  - 4.5 Quantum Modeling of Bird Navigation Compass
+  - 4.6 Quantum Aspects of Photosynthesis
+- 5 Quantum-Mechanical Modeling of Mutations, Aging, Evolution, Tumor, and Cancer Development
+  - 5.1 Quantum-Mechanical and Quantum Mechanics-Like Models for Mutations and Evolution
+  - 5.2 Markovian Chain-Like Quantum-Mechanical Modeling of Mutations and Aging
+  - 5.3 Classical, Semiclassical, and Quantum Modeling of Tumor and Cancer Development
+- 6 Classical and Quantum Error-Correction Coding in Genetics
+  - 6.1 Classical/Quantum Information Theory in Genetics and Evolution
+  - 6.2 Classical/Quantum Error-Correction Coding in Genetics and Evolution
+  - 6.3 Topological Codes
+  - 6.4 Subsystem Codes
+  - 6.5 Nonbinary Quantum Stabilizer Codes
+  - 6.6 Classical/Quantum DNA Error Correction Robust to Tumor and Cancer Introducing Mutation Errors
+
